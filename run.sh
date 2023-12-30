@@ -1,6 +1,3 @@
-#!/bin/bash
-
-
 # Run cmake
 cmake ./
 

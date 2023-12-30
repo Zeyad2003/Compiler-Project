@@ -10,7 +10,7 @@ The project is a simple implementation of compiler first 2 phases `Lexical Analy
 https://github.com/Zeyad2003/Compiler-Project/assets/87117386/897e4565-c17d-4d85-80a6-99f09564225b
 
 > [!IMPORTANT]
-> ## Installation Steps
+> ## Testing the application
 > **Make sure that you have cmake installed on your machine then:**
 > 1. Clone the repo.
-> 2. Run `./install.sh` in your terminal.
+> 2. Run `./run.sh` in your terminal.
