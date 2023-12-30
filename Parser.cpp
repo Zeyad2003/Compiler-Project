@@ -35,8 +35,8 @@ void Parser::stmt() {
     } else if (tokens[current].type == TokenType::IDENTIFIER) {
         cout << tokens[current].lexeme << " ";
         match(TokenType::IDENTIFIER);
-        cout << "= ";
         match(TokenType::OPERATOR); // =
+        cout << "= ";
         expr();
         match(TokenType::SYMBOL); // ;
         cout << endl;

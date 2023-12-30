@@ -16,6 +16,7 @@ int main() {
     cout << "\nSyntax Analysis:" << endl;
     Parser parser(tokens);
     parser.parse();
+    cout << "Syntax Analysis Successful!!" << endl;
 
     return 0;
 }

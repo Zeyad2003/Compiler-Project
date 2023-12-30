@@ -2,7 +2,7 @@
 
 ## Description
 
-The project is a simple implementation of compiler first 2 phases `Lexical Analysis` and `Syntax Analysis` using C++.
+The project is a simple implementation of compiler's first 2 phases `Lexical Analysis` and `Syntax Analysis` using C++.
 
 
 ## Project Demo
