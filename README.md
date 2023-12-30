@@ -7,7 +7,8 @@ The project is a simple implementation of compiler first 2 phases `Lexical Analy
 
 ## Project Demo
 
-https://github.com/Zeyad2003/Compiler-Project/assets/87117386/897e4565-c17d-4d85-80a6-99f09564225b
+[Compiler-Project-Demo.webm](https://github.com/Zeyad2003/Compiler-Project/assets/87117386/c5116263-648d-4cd5-b018-6d4791d715dc)
+
 
 > [!IMPORTANT]
 > ## Testing the application
